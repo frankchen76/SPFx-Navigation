@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="SpFxNavigtion"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="98e9ac95-02dd-4cde-b656-e5f8f5519bad"
+        ClientSideComponentProperties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </CustomAction>
+</Elements>
